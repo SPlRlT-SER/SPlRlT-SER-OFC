@@ -3,9 +3,9 @@
 
 
 <div align="center">
-<img src="ds.jpg" alt="KRIZ" width="170" />
+<img src="https://i.imgur.com/aAGjt7z.jpg" alt="KRIZ" width="170" />
 
-## KRIZ SIR 🌝💝
+## SPlRlT SIR 🌝💝
 
 </div>
 
