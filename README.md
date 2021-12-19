@@ -1,9 +1,9 @@
-#### KRIZ - SER - OFC 
+#### SPlRlT - SER - OFC 
 
 
 
 <div align="center">
-<img src="https://i.imgur.com/aAGjt7z.jpg" alt="KRIZ" width="170" />
+<img src="https://i.imgur.com/aAGjt7z.jpg" alt="SPlRlT" width="170" />
 
 ## SPlRlT SIR 🌝💝
 
@@ -13,7 +13,7 @@
 <a href="##"><img title="" src="KRIZ-BOT-V1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919633687665?text=Hello%20KRIZ%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/18052196558?text=Hello%20SPlRlT%20Bro🌝...fen%20boi%20aan😌❤️"><img title="Author" src="https://img.shields.io/badge/Owner-SPlRlT-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/IwOZg4VGdJq4lTH12aPOzc"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://instagram.com/kannanbro_f_f"><img title="Author" src="https://img.shields.io/badge/Instagram-kannanbro_f_f-violet.svg?style=for-the-badge&logo=Instagram" /></a>
 </p>
