@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="##"><img title="" src="KRIZ-BOT-V1?label=Language&message=English&color=blue"></a>
+<a href="##"><img title="" src="SPlRlT-BOT-V1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
  <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/18052196558?text=Hello%20SPlRlT%20Bro🌝...fen%20boi%20aan😌❤️"><img title="Author" src="https://img.shields.io/badge/Owner-SPlRlT-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
